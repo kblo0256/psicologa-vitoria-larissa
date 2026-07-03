@@ -1,0 +1,6 @@
+{
+  "name": "Vitória Larissa - Psicóloga",
+  "description": "Website profissional e canal de agendamento para a psicóloga clínica Vitória Larissa, com informações sobre atendimentos online e presenciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
