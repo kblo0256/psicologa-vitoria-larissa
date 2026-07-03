@@ -1,7 +1,7 @@
 import { GraduationCap, MapPin, HeartHandshake } from "lucide-react";
 import { motion } from "motion/react";
 
-const officeImg = "/src/assets/images/office_session_1783041117060.jpg";
+const officeImg = "/src/assets/images/vitoria 2.jpg";
 
 export default function About() {
   return (
