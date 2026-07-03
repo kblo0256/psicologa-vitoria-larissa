@@ -1,8 +1,6 @@
 import { Calendar, ArrowDown, MapPin, Sparkles } from "lucide-react";
 import { motion } from "motion/react";
-
-// Safe string reference to the generated asset to bypass TS declaration checks
-const heroImage = "/src/assets/images/vitoria 1.jpg";
+import heroImage from "../assets/images/vitoria 1.jpg";
 
 export default function Hero() {
   const scrollToAbout = () => {
